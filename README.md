@@ -6,54 +6,10 @@
 
 > *Items marked with ![Open-Source Software][OSS Icon] are open-source software and link to the source code. Items marked with ![Freeware][Freeware Icon] are free (as in free beer).*
 
-## Table of Contents
-
-- [Applications](#applications)
-    - [Audio](#audio)
-    - [Backup](#backup)
-    - [Chat Clients](#chat-clients)
-    - [Data Recovery](#data-recovery)
-    - [Developers](#developers)
-    - [E-Book Utilities](#e-book-utilities)
-    - [Editors](#editors)
-    - [Email Utilities](#email-utilities)
-    - [Finder](#finder)
-    - [Games](#games)
-    - [Graphics](#graphics)
-    - [Productivity](#productivity)
-    - [Sharing Files](#sharing-files)
-    - [Terminal](#terminal)
-    - [Utilities](#utilities)
-    - [Video](#video)
-    - [Window Management](#window-management)
-    - [Others](#others)
-- [Command Line Utilities](#command-line-utilities)
-- [macOS Utilities](#macos-utilities)
-- [Setup](#setup)
-    - [DevMyMac](#devmymac)
-    - [laptop](#laptop)
-    - [mac-dev-setup](#mac-dev-setup)
-    - [macOS 10.10 Yosemite](#os-x-1010-yosemite-setup)
-    - [macOS 10.11 El Capitan](#os-x-1011-el-capitan-setup)
-    - [macOS 10.9 Mavericks](#os-x-109-mavericks-setup)
-- [Security](#security)
-- [Miscellaneous](#miscellaneous)
-- [Discussion Forums](#discussion-forums)
-    - [Apple](#apple)
-    - [IRC channels](#irc-channels)
-    - [MacRumors](#macrumors)
-    - [Reddit](#reddit)
-- [Contribute](#contribute)
-
-
 ## Applications
 
 ### Audio
 
-- [Audio Hijack](http://www.rogueamoeba.com/audiohijack/) - Record audio from any application like iTunes, Skype or Safari, or from hardware devices like microphones and mixers.
-- [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Record system audio, control audio levels for individual apps, and automatically pauses your music player when other audio starts playing and unpauses it afterwards. [![Open-Source Software][OSS Icon]](https://github.com/kyleneideck/BackgroundMusic) ![Freeware][Freeware Icon]
-- [VOX Player](https://coppertino.com/vox/mac) - Play numerous lossy and lossless audio formats.
-- [XLD](http://tmkk.undo.jp/xld/index_e.html) - Rip/Decode/convert/play various "lossless" audio files. [![Open-Source Software][OSS Icon]](https://code.google.com/archive/p/xld/source) ![Freeware][Freeware Icon]
 
 ### Backup
 - [Arq](https://www.arqbackup.com/) - Encrypted backups to Amazon, Dropbox, Google, OneDrive, etc.
@@ -62,15 +18,6 @@
 ### Bookmark Utilities
 
 - [ReadKit](http://readkitapp.com/) - Have all your Instapaper, Pocket, etc. feeds in one place even when you're offline.
-- [Spillo](https://bananafishsoftware.com/products/spillo/) - Powerful, beautiful and fast Pinboard client.
-
-### Chat Clients
-
-- [ChitChat](https://github.com/stonesam92/ChitChat) - A native Mac app wrapper for WhatsApp Web. [![Open-Source Software][OSS Icon]](https://github.com/stonesam92/ChitChat) ![Freeware][Freeware Icon]
-- [Goofy](http://www.goofyapp.com/) - Unofficial Facebook Messenger client. [![Open-Source Software][OSS Icon]](https://github.com/danielbuechele/goofy) ![Freeware][Freeware Icon]
-- [Telegram](https://itunes.apple.com/us/app/telegram/id747648890?mt=12) - A messaging app with a focus on speed and security, it’s super fast, simple and free. [![Open-Source Software][OSS Icon]](https://github.com/overtake/telegram) ![Freeware][Freeware Icon]
-- [Textual 5](https://www.codeux.com/textual/) - An Internet Relay Chat (IRC) client. [![Open-Source Software][OSS Icon]](https://github.com/Codeux-Software/Textual)
-
 
 ### Data Recovery
 
@@ -114,22 +61,10 @@
 
 ### E-Book Utilities
 
-- [Kindle App](http://www.amazon.com/gp/help/customer/display.html?nodeId=201246110) - Amazon Kindle App for macOS.
-
 
 ### Editors
 
-- [Emacs](https://www.emacswiki.org/emacs/EmacsForMacOS) - Port of Emacs to work as an macOS app. [![Open-Source Software][OSS Icon]](https://emacsformacosx.com/download/emacs-sources/) ![Freeware][Freeware Icon]
-- [MacVim](https://github.com/macvim-dev/macvim) - Vim, the text editor. [![Open-Source Software][OSS Icon]](https://github.com/macvim-dev/macvim) ![Freeware][Freeware Icon]
 - [Sublime Text 3](http://www.sublimetext.com/) - The sophisticated text editor.
-- [TextMate](https://macromates.com/) - A graphical text editor. [![Open-Source Software][OSS Icon]](https://github.com/textmate/textmate)
-- [VimR](http://vimr.org) - Vim, refined. [![Open-Source Software][OSS Icon]](https://github.com/qvacua/vimr) ![Freeware][Freeware Icon]
-
-
-### Email Utilities
-
-- [Airmail](http://airmailapp.com/) - Lightning fast email client designed for El Capitan.
-- [MailMate](https://freron.com/) - Advanced IMAP email client, featuring extensive keyboard control and Markdown support.
 
 
 ### Finder
@@ -141,24 +76,8 @@
 - [XtraFinder](https://www.trankynam.com/xtrafinder/) - Adds useful features to Finder. ![Freeware][Freeware Icon]
 
 
-### Games
-
-- [Battle for Wesnoth](http://www.wesnoth.org/) - Turn-based tactical strategy game, featuring both single-player and online multiplayer combat. [![Open-Source Software][OSS Icon]](https://github.com/wesnoth) ![Freeware][Freeware Icon]
-- [Boxer](http://boxerapp.com/) - The DOS game emulator that’s fit for your Mac. [![Open-Source Software][OSS Icon]](https://github.com/alunbestor/Boxer) ![Freeware][Freeware Icon]
-- [Dolphin](https://dolphin-emu.org) - A powerful, Open Source emulator for Nintendo GameCube and Wii games. [![Open-Source Software][OSS Icon]](https://github.com/dolphin-emu/dolphin) ![Freeware][Freeware Icon]
-- [OpenEmu](http://openemu.org/) - Multiple Video Game System. [![Open-Source Software][OSS Icon]](https://github.com/OpenEmu/OpenEmu) ![Freeware][Freeware Icon]
-- [Screentendo](http://aaronrandall.com/blog/screentendo/) - Turn your screen into a playable level of Mario. [![Open-Source Software][OSS Icon]](https://github.com/AaronRandall/Screentendo) ![Freeware][Freeware Icon]
-- [Stockfish](http://stockfishchess.org/mac/) - Beautiful, powerful chess application. [![Open-Source Software][OSS Icon]](https://github.com/daylen/stockfish-mac) ![Freeware][Freeware Icon]
-
-
 ### Graphics
 
-- [Acorn](https://secure.flyingmeat.com/acorn/) - A very Mac-like image editor with a comprehensive feature set.
-- [Affinity Designer](https://affinity.serif.com/en-us/designer/) - Vector image design tool, possible Adobe Illustrator alternative.
-- [Affinity Photo](https://affinity.serif.com/en-us/photo/) - Raster image design tool, possible Adobe Photoshop alternative.
-- [GIPHY Capture](https://itunes.apple.com/us/app/giphy-capture.-the-gif-maker/id668208984) - Capture and share GIFs on the desktop. ![Freeware][Freeware Icon]
-- [Image2icon](http://www.img2icnsapp.com) - Create and personalize icons from your pictures. ![Freeware][Freeware Icon]
-- [OmniGraffle](https://www.omnigroup.com/omnigraffle) - An app for creating precise, beautiful graphics.
 - [Pixelmator](http://www.pixelmator.com/mac/) - Powerful image editor, possible Photoshop alternative.
 - [Sketch](http://www.sketchapp.com/) - Hybrid vector/bitmap layout application, especially useful for UI, web and mobile design.
 - [Sketch Toolbox](http://sketchtoolbox.com/) - A super simple plugin manager for Sketch. [![Open-Source Software][OSS Icon]](https://github.com/buzzfeed/Sketch-Toolbox)
@@ -207,8 +126,6 @@
 
 
 ### Utilities
-
-- [1Password](https://itunes.apple.com/in/app/1password-password-manager/id443987910?mt=12) - Password Manager and Secure Wallet.
 - [Amphetamine](https://itunes.apple.com/app/amphetamine/id937984704) - Prevents macOS from automatically going to sleep, with lots of configurations. ![Freeware][Freeware Icon]
 - [AnyBar](https://github.com/tonsky/AnyBar) - A menubar status indicator. [![Open-Source Software][OSS Icon]](https://github.com/tonsky/AnyBar) ![Freeware][Freeware Icon]
 - [APNGb](https://github.com/mancunianetz/APNGb) - .apng image assembler/disassembler app. [![Open-Source Software][OSS Icon]](https://github.com/mancunianetz/APNGb) ![Freeware][Freeware Icon]
@@ -328,45 +245,9 @@
 
 ## Setup
 
-### DevMyMac
-
-* https://github.com/adamisntdead/DevMyMac
-
-### laptop
-
-* https://github.com/thoughtbot/laptop
-
 ### mac-dev-setup
 
 * https://github.com/nicolashery/mac-dev-setup
-
-### macOS 10.9 Mavericks Setup
-
-* https://gist.github.com/kevinelliott/3135044
-* https://gist.github.com/kimmobrunfeldt/350f4898d1b82cf10bce
-
-### macOS 10.10 Yosemite Setup
-
-* https://gist.github.com/kevinelliott/0726211d17020a6abc1f
-
-### macOS 10.11 El Capitan Setup
-
-* https://gist.github.com/saetia/1623487
-
-
-## Security
-
-* [GPG Suite](https://gpgtools.org/) - Full GPG toolkit with easy to understand GUI applications and Mail.app plugin. ![Freeware][Freeware Icon]
-* [macchanger by acrogenesis](https://acrogenesis.com/macchanger/) - Easily change your MAC Address [![Open-Source Software][OSS Icon]](https://github.com/acrogenesis/macchanger) ![Freeware][Freeware Icon]
-* [macchanger by shilch](https://github.com/shilch/macchanger/) - Change / spoof MAC address (random, custom and restore). [![Open-Source Software][OSS Icon]](https://github.com/shilch/macchanger)
-* [MIDAS](https://github.com/etsy/MIDAS) - Intrusion Detection Analysis System. [![Open-Source Software][OSS Icon]](https://github.com/etsy/MIDAS)
-* [OS-X-Security-and-Privacy-Guide](https://github.com/drduh/OS-X-Security-and-Privacy-Guide) [![Open-Source Software][OSS Icon]](https://github.com/drduh/OS-X-Security-and-Privacy-Guide)
-* [OSXCollector](https://github.com/Yelp/osxcollector) - Forensic evidence collection & analysis toolkit. [![Open-Source Software][OSS Icon]](https://github.com/Yelp/osxcollector) ![Freeware][Freeware Icon]
-* [santa](https://github.com/google/santa) - A binary whitelisting/blacklisting system. [![Open-Source Software][OSS Icon]](https://github.com/google/santa) ![Freeware][Freeware Icon]
-* [tinc](https://www.tinc-vpn.org) - Secure mesh VPN software. [![Open-Source Software][OSS Icon]](https://www.tinc-vpn.org/git/browse?p=tinc) ![Freeware][Freeware Icon]
-* [Tunnelblick](https://tunnelblick.net) - Easy to use OpenVPN client and GUI. [![Open-Source Software][OSS Icon]](https://github.com/Tunnelblick/Tunnelblick) ![Freeware][Freeware Icon]
-- [VeraCrypt](https://veracrypt.codeplex.com/) - Free and open source disk encryption software. [![Open-Source Software][OSS Icon]](https://veracrypt.codeplex.com/SourceControl/latest) ![Freeware][Freeware Icon]
-* [Viscosity](https://www.sparklabs.com/viscosity/) - Fully-featured OpenVPN client, ready for enterprise deployment.
 
 
 ## Miscellaneous
@@ -376,35 +257,6 @@
 * [Show hidden files](http://ianlunn.co.uk/articles/quickly-showhide-hidden-files-mac-os-x-mavericks/)
 * [Mac Power Users](http://5by5.tv/mpu/238)
 * [Awesome Screensavers](https://github.com/aharris88/awesome-osx-screensavers)
-
-
-## Discussion Forums
-
-### Apple
-
-* [Apple Support Communities](https://discussions.apple.com/community/mac_os/os_x_yosemite)
-
-
-### IRC channels
-
-* [#macosx](https://webchat.freenode.net/?channels=macosx)
-* [#apple](https://webchat.freenode.net/?channels=apple)
-* [#mac](https://webchat.freenode.net/?channels=mac)
-
-
-### MacRumors
-
-* [macOS Yosemite](http://forums.macrumors.com/forums/os-x-yosemite-10-10.171/)
-* [macOS El Capitan](http://forums.macrumors.com/forums/os-x-el-capitan-10-11.184/)
-
-
-### Reddit
-
-* [osx](https://www.reddit.com/r/osx/)
-* [macapps](https://www.reddit.com/r/macapps)
-* [mac](https://www.reddit.com/r/Mac)
-* [macOS](https://www.reddit.com/r/macOS/)
-* [macsetups](https://www.reddit.com/r/MacSetups)
 
 
 ## Contribute
