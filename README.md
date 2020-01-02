@@ -52,6 +52,7 @@
 - [Typora](http://www.typora.io/) - Another minimal Markdown editor. ![Freeware][Freeware Icon]
 
 ### Video
+- [Beamer](https://beamer-app.com) - Stream directly from your Mac to Apple TV and Chromecast
 - [IINA](https://iina.io) - The modern media player for macOS. ![Freeware][Freeware Icon]
 - [PiPifier](https://github.com/arnoappenzeller/PiPifier) - Native macOS 10.12 Safari extension that lets you use every HTML5 video in Picture in Picture mode. ![Freeware][Freeware Icon]
 - [VLC](https://www.videolan.org/vlc/index.html) - Free and open source cross-platform multimedia player. ![Freeware][Freeware Icon]
