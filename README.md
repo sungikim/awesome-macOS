@@ -71,7 +71,7 @@
 - [Translate Tab](http://translate-tab.com) - An easy to use translation tool for quick translation on menubar
 - [Unclutter](https://unclutterapp.com) - A new handy place on your desktop for storing notes, files and pasteboard clips.
 - [Vanilla](https://matthewpalmer.net/vanilla/) - Hide menu bar icons on your Mac.
-
+- [Organize](https://github.com/tfeldmann/organize) - 파일 자동 정리 툴 like Hazel
 
 ## Setup
 
