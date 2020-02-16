@@ -34,6 +34,7 @@
 - [Pixelmator](http://www.pixelmator.com/mac/) - Powerful image editor, possible Photoshop alternative.
 - [Sketch](http://www.sketchapp.com/) - Hybrid vector/bitmap layout application, especially useful for UI, web and mobile design.
 - [Sketch Toolbox](http://sketchtoolbox.com/) - A super simple plugin manager for Sketch. [![Open-Source Software][OSS Icon]](https://github.com/buzzfeed/Sketch-Toolbox)
+- [Recodeit](https://recordit.co) - 스크린 GIF 캡쳐
 
 ### Productivity
 - [Microsoft To Do](https://todo.microsoft.com/tasks/)
