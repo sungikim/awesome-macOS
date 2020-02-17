@@ -40,7 +40,12 @@
 ### Productivity
 - [Microsoft To Do](https://todo.microsoft.com/tasks/)
 - [Simplenote](https://simplenote.com/) - Simple cross-platform note taking app with cloud-based syncing. ![Freeware][Freeware Icon]
-- [Simplenote](https://simplenote.com/) - Simple cross-platform note taking app with cloud-based syncing. ![Freeware][Freeware Icon]
+- [Notational Velocity](http://notational.net/) - Store, retrieve and sync notes within a minimal GUI. [![Open-Source Software][OSS Icon]](https://github.com/scrod/nv/) ![Freeware][Freeware Icon]
+- [Monodraw](http://monodraw.helftone.com/) - A powerful ASCII art editor.
+- [Soulver](http://www.acqualia.com/soulver/) - Beautiful expressive calculator.
+- [Numi](https://numi.app) - Soulver 같은 계산기. 더 심플하고 무료.
+- [Typora](http://www.typora.io/) - Another minimal Markdown editor. ![Freeware][Freeware Icon]
+- [LightweightPDF](https://lightweightpdf.com) - A free PDF compressor for Mac ![Freeware][Freeware Icon]
 
 ### Terminal
 - [iTerm 2](https://www.iterm2.com/) - A terminal emulator. [![Open-Source Software][OSS Icon]](https://github.com/gnachman/iTerm2) ![Freeware][Freeware Icon]
@@ -48,12 +53,7 @@
 
 ### Utilities
 - [Fluid](http://fluidapp.com/) - Turn web applications into Mac applications.
-- [Monodraw](http://monodraw.helftone.com/) - A powerful ASCII art editor.
-- [Notational Velocity](http://notational.net/) - Store, retrieve and sync notes within a minimal GUI. [![Open-Source Software][OSS Icon]](https://github.com/scrod/nv/) ![Freeware][Freeware Icon]
 - [Microsoft Remote Desktop Connection Client](https://www.microsoft.com/en-US/download/details.aspx?id=18140) - Remote Desktop Connection Client lets you connect from your Macintosh computer to a Windows-based computer.
-- [Soulver](http://www.acqualia.com/soulver/) - Beautiful expressive calculator.
-- [Numi](https://numi.app) - Soulver 같은 계산기. 더 심플하고 무료.
-- [Typora](http://www.typora.io/) - Another minimal Markdown editor. ![Freeware][Freeware Icon]
 
 ### Video
 - [Beamer](https://beamer-app.com) - Stream directly from your Mac to Apple TV and Chromecast
