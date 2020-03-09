@@ -77,6 +77,10 @@
 - [Vanilla](https://matthewpalmer.net/vanilla/) - Hide menu bar icons on your Mac.
 - [Organize](https://github.com/tfeldmann/organize) - 파일 자동 정리 툴 like Hazel
 
+## Smart home
+- [AirConnect](https://github.com/philippe44/AirConnect) - Use AirPlay to stream to UPnP/Sonos & Chromecast devices [![Open-Source Software][OSS Icon]](https://bitbucket.org/WAHa_06x36/theunarchiver)
+- 
+
 ## Setup
 
 ### mac-dev-setup
