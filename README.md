@@ -79,7 +79,6 @@
 
 ## Smart home
 - [AirConnect](https://github.com/philippe44/AirConnect) - Use AirPlay to stream to UPnP/Sonos & Chromecast devices [![Open-Source Software][OSS Icon]](https://bitbucket.org/WAHa_06x36/theunarchiver)
-- 
 
 ## Setup
 
